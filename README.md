@@ -1,2 +1,7 @@
 # nova22
-my playground
+
+A place for quick notes.
+
+## Ideas
+- try the simpler approach
+- clean up duplicates
